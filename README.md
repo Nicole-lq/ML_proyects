@@ -34,7 +34,7 @@ Realizar un análisis de clustering sobre los salarios de diversas profesiones e
 * K-Means
 * Dendrogramas
 
-## 4. Predicción de precios de diamantes
+## 3. Predicción de precios de diamantes
 
 ### Objetivo
 
@@ -44,7 +44,7 @@ Predecir el precio de los diamantes en función de atributos como quilates, cort
 
 * Árbol de Decisión (`DecisionTreeClassifier`)
   
-## 3. Supervivencia en la unidad de cuidados intensivos (UCI)
+## 4. Supervivencia en la unidad de cuidados intensivos (UCI)
 
 ### Objetivo
 
