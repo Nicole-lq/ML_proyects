@@ -5,7 +5,11 @@
 </div>
 
 
-Este repositorio contiene una colección de proyectos de machine learning que exploran diversas técnicas de modelado predictivo, desde aprendizaje supervisado hasta clustering y regresión. A continuación se presenta una descripción de los proyectos incluidos:
+Este repositorio contiene una colección de proyectos de machine learning que exploran diversas técnicas de modelado predictivo, desde aprendizaje supervisado hasta clustering y regresión. A continuación se presenta una descripción de los proyectos incluidos.
+
+<div>
+  <br>
+</div>
 
 ## 1. Análisis de una tragedia (Predicción de supervivencia en el Titanic)
 
