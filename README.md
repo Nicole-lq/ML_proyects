@@ -11,7 +11,8 @@ Este repositorio contiene una colección de proyectos de machine learning que ex
   <br>
 </div>
 
-## 1. Análisis de una tragedia
+## 1. [Análisis de una tragedia](Analisis_de_una_tragedia/RF_y_Adaboost_Titanic.ipynb)
+
 
 ### Objetivo
 
