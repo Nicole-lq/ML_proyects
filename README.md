@@ -11,7 +11,7 @@ Este repositorio contiene una colección de proyectos de machine learning que ex
   <br>
 </div>
 
-## 1. Análisis de una tragedia (Predicción de supervivencia en el Titanic)
+## 1. Análisis de una tragedia
 
 ### Objetivo
 
