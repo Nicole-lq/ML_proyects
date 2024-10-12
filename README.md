@@ -11,7 +11,7 @@ Este repositorio contiene una colección de proyectos de machine learning que ex
   <br>
 </div>
 
-## 1. [Análisis de una tragedia](Analisis_de_una_tragedia/RF_Adaboost_Titanic.ipynb)
+## [1. Análisis de una tragedia](Analisis_de_una_tragedia/RF_Adaboost_Titanic.ipynb)
 
 
 ### Objetivo
@@ -24,7 +24,7 @@ Predecir la supervivencia de los pasajeros a bordo del Titanic utilizando variab
 * AdaBoost
 
 
-## 2. [Clustering de salarios](Clustering/Modelos_de_clustering.ipynb)
+## [2. Clustering de salarios](Clustering/Modelos_de_clustering.ipynb)
 
 ### Objetivo
 
@@ -35,7 +35,7 @@ Realizar un análisis de clustering sobre los salarios de diversas profesiones e
 * K-Means
 * Dendrogramas
 
-## 3. [Predicción de precios de diamantes](Prediccion_de_precios/Prediccion_de_precios.ipynb)
+## [3. Predicción de precios de diamantes](Prediccion_de_precios/Prediccion_de_precios.ipynb)
 
 ### Objetivo
 
@@ -45,7 +45,7 @@ Predecir el precio de los diamantes en función de atributos como quilates, cort
 
 * Árbol de Decisión (`DecisionTreeClassifier`)
   
-## 4. [Supervivencia en la unidad de cuidados intensivos (UCI)](Supervivencia_en_UCI/Supervivencia_UCI.ipynb)
+## [4. Supervivencia en la unidad de cuidados intensivos (UCI)](Supervivencia_en_UCI/Supervivencia_UCI.ipynb)
 
 ### Objetivo
 
