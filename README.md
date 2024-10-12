@@ -24,7 +24,7 @@ Predecir la supervivencia de los pasajeros a bordo del Titanic utilizando variab
 * AdaBoost
 
 
-## 2. Clustering de salarios
+## 2. [Clustering de salarios](Clustering/Modelos_de_clustering.ipynb)
 
 ### Objetivo
 
@@ -35,7 +35,7 @@ Realizar un análisis de clustering sobre los salarios de diversas profesiones e
 * K-Means
 * Dendrogramas
 
-## 3. Predicción de precios de diamantes
+## 3. [Predicción de precios de diamantes](Prediccion_de_precios/Prediccion_de_precios.ipynb)
 
 ### Objetivo
 
@@ -45,7 +45,7 @@ Predecir el precio de los diamantes en función de atributos como quilates, cort
 
 * Árbol de Decisión (`DecisionTreeClassifier`)
   
-## 4. Supervivencia en la unidad de cuidados intensivos (UCI)
+## 4. [Supervivencia en la unidad de cuidados intensivos (UCI)](Supervivencia_en_UCI/Supervivencia_UCI.ipynb)
 
 ### Objetivo
 
