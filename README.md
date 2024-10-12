@@ -28,7 +28,7 @@ Predecir la supervivencia de los pasajeros a bordo del Titanic utilizando variab
 
 ### Objetivo
 
-Realizar un análisis de clustering sobre los salarios de diversas profesiones en 44 ciudades del mundo.
+Generar un análisis de clustering sobre los salarios de diversas profesiones en 44 ciudades del mundo.
 
 ### Algoritmos utilizados
 * PCA
