@@ -1,57 +1,55 @@
 <div align="center">
 
-# Proyectos de Machine Learing
+# Machine Learning Projects
 
 </div>
 
-
-Este repositorio contiene una colección de proyectos de machine learning que exploran diversas técnicas de modelado predictivo, desde aprendizaje supervisado hasta clustering y regresión. A continuación se presenta una descripción de los proyectos incluidos.
+This repository contains a collection of machine learning projects that explore various predictive modeling techniques, ranging from supervised learning to clustering and regression. Below is a description of the included projects.
 
 <div>
   <br>
 </div>
 
-## [1. Análisis de una tragedia](Analisis_de_una_tragedia/RF_Adaboost_Titanic.ipynb)
+## [1. Analysis of a Tragedy](Analisis_de_una_tragedia/RF_Adaboost_Titanic.ipynb)
 
+### Objective
 
-### Objetivo
+Predict the survival of passengers aboard the Titanic using variables such as gender, class, and ticket cost.
 
-Predecir la supervivencia de los pasajeros a bordo del Titanic utilizando variables como el género, la clase y el costo del boleto.
-
-### Algoritmos utilizados
+### Algorithms Used
 
 * Random Forest
 * AdaBoost
 
+## [2. Salary Clustering](Clustering/Modelos_de_clustering.ipynb)
 
-## [2. Clustering de salarios](Clustering/Modelos_de_clustering.ipynb)
+### Objective
 
-### Objetivo
+Perform a clustering analysis on the salaries of various professions across 44 cities worldwide.
 
-Generar un análisis de clustering sobre los salarios de diversas profesiones en 44 ciudades del mundo.
-
-### Algoritmos utilizados
+### Algorithms Used
 * PCA
 * K-Means
-* Dendrogramas
+* Dendrograms
 
-## [3. Predicción de precios de diamantes](Prediccion_de_precios/Prediccion_de_precios.ipynb)
+## [3. Diamond Price Prediction](Prediccion_de_precios/Prediccion_de_precios.ipynb)
 
-### Objetivo
+### Objective
 
-Predecir el precio de los diamantes en función de atributos como quilates, corte, color y claridad utilizando un modelo de árbol de decisión.
+Predict the price of diamonds based on attributes such as carat, cut, color, and clarity using a decision tree model.
 
-### Algoritmos utilizados
+### Algorithms Used
 
-* Árbol de Decisión (`DecisionTreeClassifier`)
-  
-## [4. Supervivencia en la unidad de cuidados intensivos (UCI)](Supervivencia_en_UCI/Supervivencia_UCI.ipynb)
+* Decision Tree (`DecisionTreeClassifier`)
 
-### Objetivo
+## [4. Survival in the Intensive Care Unit (ICU)](Supervivencia_en_UCI/Supervivencia_UCI.ipynb)
 
-Crear un modelo basado en árboles de decisión para predecir la supervivencia de pacientes en la UCI según sus signos vitales, enfermedades crónicas y comorbilidades.
+### Objective
 
-### Algoritmos utilizados
+Develop a decision tree-based model to predict the survival of ICU patients based on their vital signs, chronic diseases, and comorbidities.
 
-* Árbol de Decisión (`DecisionTreeRegressor`)
+### Algorithms Used
 
+* Decision Tree (`DecisionTreeRegressor`)
+
+**_The coments in the code and the analysis are originally in spanish. I´ll upload an english version soon._**
